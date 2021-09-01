@@ -1,16 +1,46 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1. From following, the alternative name for 3D printing is ________ .",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "Additive Manufacturing",
+		"b": "Layer Manufacturing",
+		"c": "Direct CAD Manufacturing",
+		"d": "All of these"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2. Choose the correct sequence",
+	"answers": {
+		"a": "3D CAD data - CAD solid model - STL file - RP prototype",
+		"b": "CAD solid model - 3D CAD data - RP prototype - STL file",
+		"c": "STL file - 3D CAD data - CAD solid model - RP prototype ",
+		"d": "3D CAD data - STL file - CAD solid model - RP prototype"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "3. Full form of STL is _____.",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "Straight-lithography",
+		"b": "Straight-lipsography",
+		"c": "Stereo-lithography",
+		"d": "Streto-lipsography"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "4. Converting STL file model into layers is called ________ in 3D printing.",
+	"answers": {
+		"a": "Slicing",
+		"b": "Cutting",
+		"c": "Trimming",
+		"d": "Chopping"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "5. The STL files translate the part geometry from a CAD system to________.",
+	"answers": {
+		"a": "CAPP machine",
+		"b": "CMM machine",
+		"c": "3D printing machine",
+		"d": "None of the above"
 	},
 	"correctAnswer": "c"
 }]

@@ -1,16 +1,46 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "1. The motive behind _____ a 3D model is to transform the model into guidelines for the 3D printer",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "Orientation",
+		"b": "Path planning",
+		"c": "Slicing",
+		"d": "Support removal"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2. By which preprocessing, we can print the object vertically upward, vertically downward and in horizontal plane.",
+	"answers": {
+		"a": "Path planning",
+		"b": "CAD",
+		"c": "Slicing",
+		"d": "Orientation"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "3. _________ helps in to improve the printed surface quality, shape accuracy and infill distribution quality",
+	"answers": {
+		"a": "Path planning",
+		"b": "Orientation",
+		"c": "CAD",
+		"d": "Slicing"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "4. First step in pre-processing is",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "Path planning",
+		"b": "Orientation",
+		"c": "Conversion to STL",
+		"d": "CAD file preparation"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "d"
+}, {
+	"question": "5. _____________ are required where the objects are unable to get printed directly",
+	"answers": {
+		"a": "Path planning",
+		"b": "Orientation",
+		"c": "CAD",
+		"d": "Support structures"
+	},
+	"correctAnswer": "d"
 }]
