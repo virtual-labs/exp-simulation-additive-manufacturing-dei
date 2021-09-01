@@ -25,4 +25,4 @@ The motive behind slicing a 3D model is to transform the model into guidelines f
 ### d.	Path Planning: 
 Path planning helps in to improve the printed surface quality, shape accuracy and infill distribution quality. There are various ways for path planning which can be used to print the objects which may affects the following factors in object like raster path, grid path, spiral path and zigzag path.
 
-![Pre-processing work flow](images/Flowchart.jpg "Pre-processing work flow")
+![Pre Processing work flow](images/flowchart.png "Pre Processing work flow")
